@@ -3,7 +3,7 @@ This document detailed explains all the steps to reproduce the experimental resu
 
 ## Clone the repository
 ```
-git clone https://github.com/leonardo-panseri/cicero-on-vidor4000.git --recurse-submodules
+git clone https://github.com/necst/cicero-on-vidor4000.git --recurse-submodules
 ```
 
 ## Execution on Cicero
