@@ -1,4 +1,7 @@
 # CICERO On Arduino MKR Vidor 4000
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7797406.svg)](https://doi.org/10.5281/zenodo.7797406)
+
 Adaptation of [CICERO](https://github.com/necst/cicero), a FPGA regex coprocessor, for the Intel Cyclone 10 LP embedded in the [Arduino MKR Vidor 4000](https://store.arduino.cc/products/arduino-mkr-vidor-4000).  
 The easiest way to use the project is the CICERO Arduino library, information on how to install and how to use it can be found in the [About cicero-arduino-library](#about-cicero-arduino-library) section.
 
